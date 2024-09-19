@@ -1,15 +1,18 @@
 [English](https://github.com/RinNET-OpenSource/.github/blob/main/profile/README.md)
 
-**欢迎来到 RinNET-OpenSource**，一个致力于创新开源软件解决方案的活跃社区。🚀
+# 🌍 RinNET-OpenSource
 
-### 📦 代码仓库
+**欢迎来到 RinNET-OpenSource** 🚀，一个热情投身于开源软件解决方案建设的社区。
 
-- **[Aqua Viewer](https://github.com/RinNET-OpenSource/aqua_viewer)**：为 RinNET 量身定制的尖端 WebUI，具备卓越的服务器兼容性和扩展功能。它是开发人员增强其项目的理想工具，支持构建强大、可扩展的解决方案。
+### 📂 代码仓库
+
+- **[Aqua Viewer](https://github.com/RinNET-OpenSource/aqua_viewer)** 🖥️：一款先进的WebUI，专为增强服务器兼容性和扩展功能而设计，为RinNET量身打造的Aqua-Viewer高级版本。
 
 ### 🤝 如何贡献
 
-我们热烈欢迎贡献者！🌟 无论您是编码人员、测试人员还是文档专家，您的贡献都是宝贵的。通过编码、测试、提交拉取请求或帮助改进翻译和文档来与我们互动。
+我们热烈欢迎贡献者！👐 通过编码 💻、测试 🧪 或提交拉取请求 ➡️ 来与我们互动。同样欢迎改进翻译或文档的贡献。
 
 ### 📜 许可证
 
-RinNET-OpenSource 下的项目通常采用 AGPL-3.0 许可证，促进共享创新的繁荣社区，确保所有衍生作品均保持开源。
+RinNET-OpenSource 下的项目通常采用 AGPL-3.0 许可证 📄，确保所有衍生作品保持开源。
+
