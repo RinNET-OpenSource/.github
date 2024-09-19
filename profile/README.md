@@ -1,3 +1,5 @@
+[中文版](https://github.com/RinNET-OpenSource/.github/blob/main/profile/README_zh.md)
+
 # 🌍 RinNET-OpenSource
 
 **Welcome to RinNET-OpenSource** 🚀, a community passionately building open-source software solutions.
